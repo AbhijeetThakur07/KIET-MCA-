@@ -1,4 +1,6 @@
+
 //guess the number
+document.write("hey welcome to this game")
 let a=Math.random()*100
 a=Number.parseInt(a)
 
