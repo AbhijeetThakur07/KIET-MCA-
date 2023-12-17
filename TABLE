@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align:center;
+}
+</style>
+
+</head>
+<body>
+
+<h1>The table element</h1>
+
+<table>
+  <tr>
+    <th>S.No.</th>
+    <th>Faculty Name</th>
+    <th>Subject Taught</th>
+    <th>Gender</th>
+  </tr>
+  <tr>
+    <td>001</td>
+    <td>Dr.Ankit Verma</td>
+    <td>Web development</td>
+    <td>Male</td>
+  </tr>
+  <tr>
+    <td>002</td>
+    <td>Sonia Gauri</td>
+    <td>Communication</td>
+    <td>Female</td>
+  </tr>
+  <tr>
+    <td>003</td>
+    <td>Praveen Kumar Gupta</td>
+    <td>C</td>
+    <td>Male</td>
+  </tr>
+  <tr>
+    <td>004</td>
+    <td>Prashant Agarwal</td>
+    <td>Algo Problem Solving</td>
+    <td>Male</td>
+  </tr>
+   <tr>
+    <td>005</td>
+    <td>Dr.Vipin Kumar</td>
+    <td>MOOC</td>
+    <td>Male</td>
+  </tr>
+</table>
+
+</body>
+</html>
